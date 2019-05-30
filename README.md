@@ -10,4 +10,4 @@ Current members
 * Gustavo Antão
 * Rodolfo Moraes
 
-[rules.md]Group Rules 
+[Group Rules](rules.md)
